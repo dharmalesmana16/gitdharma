@@ -1,4 +1,4 @@
-from webbrowser import YouTube
+from pytube import YouTube
 
 created_program=" Created Dharma Lesmana"
 program_language="Python For Language "
