@@ -23,5 +23,9 @@ try:
 except:
     print("Some Program has not working")
 
+#jika terjadi keasalahan pada download youtubenya , harus diupgrade di cmd maupun di text editornya dengan cara :
 
-
+# (CMD) python -m pip install --upgrade pip
+# (CMD) python -m pip install --upgrade pytube 
+# (Text Editor) python -m pip install --upgrade pip
+# (Text Editor)python -m pip install --upgrade pytube 
