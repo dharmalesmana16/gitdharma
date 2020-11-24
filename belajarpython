@@ -11,4 +11,11 @@ Struktur Data Python :
   1. List adalah struktur data yang bisa menyimpan berbagai tipe data dan isinya bisa diubah,ditambah dan dikurangi dll dengan syntax [1,"garuda",3] tanda siku kurung
   2. Tuple adalah struktur data yang bisa menyimpan berbagai tipe data dan isinya tidak bisa diubah dengan syntax (1,"hello",2) tanda kurung 
   3. Dictionary adalah struktur data yang bisa menyimpan seperti pasangan penunjuk dan nilai dengan syntax {key1:value1, key2:value2}
+  4. Set 
   
+cv2.imshow('judul program',file read image/video) # berfungsi untuk menampilkan file dari cv2.imread()
+cv2.imread('file PATH' ) # Untuk membaca/mengakses file baik image maupun video
+cv2.cvtColor(file path, code convert) # untuk mengconvert warna pada image maupun video
+
+cv2.waitKey(sec) #untuk mengatur delay dalam menampilkan file gambar / video
+
