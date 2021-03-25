@@ -1,0 +1,68 @@
+*{
+           margin: 0;
+           padding: 0;
+}
+.contentsetting{
+           margin-bottom: 100px;
+           margin-right: -275px;
+           font-size: 20px;
+}
+.navbarsetting{
+           margin-left: 100px;
+}
+.nav-link{
+           margin-left: 19px;
+}
+.contentnavsection{
+           font-size: 20px;
+}
+.sectionnavbar{
+           background-color: #f1f2f6;
+           
+}
+.containersectionsetting{
+           
+           margin-top: 25px;
+}
+.sectioncontainersetting2{
+           margin-top: 10px;
+}
+
+.navsection{
+           color: #2d3436;
+}
+.navsection:hover{
+           color:#f7b731 ;
+}
+
+.navheader{
+           color: #2d3436;
+}
+.navheader:hover{
+           color:#f7b731 ;
+}
+.contentcarousel{
+           color: #dfe4ea;
+           font-size: 22px;
+           font-weight: 200;
+}
+.judulcarousel{
+           font-weight: bold;
+           
+}
+
+.list-group-item{
+           background-color: #f1f2f6;
+}
+.contentlink{
+           border: 1px solid gray;
+           border-radius: 15px;
+           opacity: 75%;
+           width: auto;
+           height: 310px;
+           margin-top: 120px;
+           padding:10px;
+}
+.judulcontentcard{
+           font-weight: bold;
+}
